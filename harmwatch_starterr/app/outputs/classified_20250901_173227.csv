@@ -1,0 +1,8 @@
+platform,date,author_id,url,text,clean_text,author_hash,domains,category,risk_level,date_parsed
+twitter,2025-08-10,user123,http://bit.ly/free-prize,Win a FREE iPhone now! Click the link and verify your account with OTP. #giveaway,win free iphone click link verify account otp giveaway,74af25ec493f339e,[],Scam/Phishing,medium,2025-08-10
+reddit,2025-08-11,mod42,,"This is fake news, don’t believe this hoax about the vaccine.",fake news believe hoax vaccine,d03cd0843a30090b,[],Misinformation,low,2025-08-11
+youtube,2025-08-12,channel007,https://example.com/blog,You are such an idiot. Stupid take. Go away.,idiot stupid take go away,94eccf8968069e95,[],Cyberbullying,low,2025-08-12
+twitter,2025-08-13,anon,,Feeling depressed and lonely lately... need help,feeling depressed lonely lately need help,1fd8590956f6595e,[],Mental Health Risk,low,2025-08-13
+reddit,2025-08-14,u999,http://tinyurl.com/secure-login,Your account was hacked. Reset your password here to avoid suspension!,account hacked reset password avoid suspension,c4c53f8d3c616617,[],Hacking/Exploit,high,2025-08-14
+twitter,2025-08-15,uabc,,Our servers faced a breach today; we’re investigating and will update.,servers faced breach today investigating update,7d1b04b28205c0fd,[],Hacking/Exploit,medium,2025-08-15
+reddit,2025-08-16,u777,,"Lovely weather today, stay safe everyone!",lovely weather today stay safe everyone,7ee41050dedbae9d,[],Neutral,low,2025-08-16

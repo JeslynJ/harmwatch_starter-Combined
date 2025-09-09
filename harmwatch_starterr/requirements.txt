@@ -1,0 +1,11 @@
+streamlit==1.36.0
+pandas==2.2.2
+matplotlib==3.9.0
+nltk==3.9.1
+websockets==12.0
+regex==2024.5.15
+requests==2.32.3
+beautifulsoup4==4.12.2
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.5.3
